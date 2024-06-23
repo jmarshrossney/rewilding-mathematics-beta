@@ -1,0 +1,42 @@
+[
+  {
+    "listing": "/seminars.html",
+    "items": [
+      "/seminars/2024-04-30_Sem4/2_Bertelli.html",
+      "/seminars/2024-04-30_Sem4/1_Bakker.html",
+      "/seminars/2024-03-25_Sem3/2_Matthiopoulos.html",
+      "/seminars/2024-03-25_Sem3/1_Bullock.html",
+      "/seminars/2024-03-06_Sem2/2_Bickerton.html",
+      "/seminars/2024-03-06_Sem2/1_Lorenzo_Arribas.html",
+      "/seminars/2024-01-16_Sem1/4_Cobbold.html",
+      "/seminars/2024-01-16_Sem1/3_Petrovskii.html",
+      "/seminars/2024-01-16_Sem1/2_McCrea.html",
+      "/seminars/2024-01-16_Sem1/1_du_Toit.html"
+    ]
+  },
+  {
+    "listing": "/news.html",
+    "items": [
+      "/news/workshop_june_2024.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/template.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/Christina_Cobbold.html",
+      "/people/Joe_Marsh_Rossney.html",
+      "/people/Johan_du_Toit.html",
+      "/people/Michael_Singer.html",
+      "/people/Nathalie_Pettorelli.html",
+      "/people/Rachel_McCrea.html",
+      "/people/Sarah_Durant.html",
+      "/people/Sergei_Petrovskii.html"
+    ]
+  }
+]
