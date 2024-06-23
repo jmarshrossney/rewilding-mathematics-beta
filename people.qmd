@@ -6,7 +6,7 @@ listing:
   type: grid
   grid-columns: 4
   image-height: 250px
-  image-placeholder: assets/blank-profile.png # https://pixabay.com/vectors/blank-profile-picture-mystery-man-973460/
+  image-placeholder: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png
   fields: [image, title, subtitle, description, categories]
   categories: true
 page-layout: full

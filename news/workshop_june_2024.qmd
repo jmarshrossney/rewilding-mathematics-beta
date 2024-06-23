@@ -1,7 +1,7 @@
 ---
 title: Edinburgh Workshop, June 2024
 date: 2024-06-21
-description: We met up for a week in Edinburgh to work on ...
+description: We met up in Edinburgh.
 ---
 
-It was nice and we had fun
+It was nice.

@@ -1,10 +1,10 @@
 ---
 title: Michael Singer
 subtitle: University College London
-categories: ["organizer"]
+categories: ["organizer", "project lead"]
 description: ""
 
 about:
   template: jolla
-  image: ../assets/blank-profile.png
+  image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png
 ---

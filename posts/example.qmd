@@ -1,0 +1,13 @@
+---
+title: Example Blog Post
+author: "[Joe Marsh Rossney](/people/Joe_Marsh_Rossney.html)"
+categories: ["uncategorised"]
+description: This is intended to serve as a template for blog posts, should anybody want to share their thinking or not-quite-a-full-paper.
+---
+
+## Writing in Markdown
+
+Writing in [Markdown](https://www.markdownguide.org/) when you're used to LaTeX or Word is embarassingly easy.
+
+This blog is based on [Quarto](https://quarto.org/) which uses an [extended Markdown syntax](https://pandoc.org/MANUAL.html#pandocs-markdown) with some nice additional functionality.
+The best place to look for guidance is the [Quarto guide](https://quarto.org/docs/guide/).

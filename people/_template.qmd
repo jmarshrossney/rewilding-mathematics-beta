@@ -1,32 +1,57 @@
+# This is a template file for individual's profile page
+#
+# All of the text in the format <<TEXT>> should be edited
+# Any lines starting with a '#' will be ignored
 ---
-title: NAME
-subtitle: INSTITUTION
-image: ../assets/<image>
-categories: []
-description: SHORT DESCRIPTION
+
+# Write your full name here
+title: <<NAME>>
+
+# Write your institution here
+subtitle: <<INSTITUTION>>
+
+# You can change this image to point to an existing image online, or
+# add an image to the assets folder and point to that. See instructions
+# in README.md 
+image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png
+
+# This short description will appear under your name/image
+# in the 'people' directory
+description: <<SHORT DESCRIPTION>>
 
 about:
   template: jolla
-  image: ../assets/<image>
+
+  # This next field should be identical to the image field above
+  # (excepted it should be indented by 2 space)
+  image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png
+ 
+  # Modify the href values, or simply delete a set of three lines
+  # (icon, text, href) if the field isn't needed or wanted.
+  # Additional icons (substack, discord etc) can be found at
+  # https://icons.getbootstrap.com/
   links:
     - icon: person-circle
-      text: "Personal Website"
-      href: YOUR WEBSITE HERE
+      text: Website
+      href: <<YOUR WEBSITE HERE>>
     - icon: linkedin
       text: LinkedIn
-      href: YOUR LINKEDIN HERE
+      href: <<YOUR LINKEDIN HERE>>
     - icon: twitter-x
       text: X
-      href: YOUR TWITTER/X HERE
+      href: <<YOUR TWITTER/X HERE>>
     - icon: github
       text: Github
-      href: YOUR GITHUB HERE
+      href: <<YOUR GITHUB HERE>>
     - icon: envelope-fill
       text: Email
-      href: YOUR EMAIL HERE
+      href: <<YOUR EMAIL HERE>>
 ---
 
-LONG DESCRIPION
+# Here you can write a bit more about yourself, or include links to papers,
+# talks, etc.
 
-- What is your disciplinary background?
-- Which parts of rewilding & mathematics are you interested in?
+<<LONG DESCRIPION>>
+
+# For example, what is your disciplinary background?
+# Which parts of rewilding & mathematics are you interested in?
