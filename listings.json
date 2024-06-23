@@ -1,5 +1,18 @@
 [
   {
+    "listing": "/people.html",
+    "items": [
+      "/people/Christina_Cobbold.html",
+      "/people/Joe_Marsh_Rossney.html",
+      "/people/Johan_du_Toit.html",
+      "/people/Michael_Singer.html",
+      "/people/Nathalie_Pettorelli.html",
+      "/people/Rachel_McCrea.html",
+      "/people/Sarah_Durant.html",
+      "/people/Sergei_Petrovskii.html"
+    ]
+  },
+  {
     "listing": "/seminars.html",
     "items": [
       "/seminars/2024-04-30_Sem4/2_Bertelli.html",
@@ -24,19 +37,6 @@
     "listing": "/blog.html",
     "items": [
       "/posts/template.html"
-    ]
-  },
-  {
-    "listing": "/people.html",
-    "items": [
-      "/people/Christina_Cobbold.html",
-      "/people/Joe_Marsh_Rossney.html",
-      "/people/Johan_du_Toit.html",
-      "/people/Michael_Singer.html",
-      "/people/Nathalie_Pettorelli.html",
-      "/people/Rachel_McCrea.html",
-      "/people/Sarah_Durant.html",
-      "/people/Sergei_Petrovskii.html"
     ]
   }
 ]
