@@ -1,0 +1,16 @@
+---
+title: People
+listing:
+  contents: people
+  sort: "title asc"
+  type: grid
+  grid-columns: 4
+  image-height: 250px
+  image-placeholder: assets/blank-profile.png # https://pixabay.com/vectors/blank-profile-picture-mystery-man-973460/
+  fields: [image, title, subtitle, description, categories]
+  categories: true
+page-layout: full
+title-block-banner: true
+---
+
+

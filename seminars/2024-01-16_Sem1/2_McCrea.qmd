@@ -1,0 +1,10 @@
+---
+title: "Rewilding: A Statistician's Perspective"
+author: "[Rachel McCrea](/people/Rachel_McCrea.html)"
+date: 2024-01-16
+description: "No description"
+---
+
+{{< video https://www.youtube.com/watch?v=oNZLrqfNgvA&list=PLUbgZHsSoMEWtrZI6IHJt-6-vN5JZi_mY&index=3 >}}
+
+

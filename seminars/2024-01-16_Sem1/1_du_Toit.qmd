@@ -1,0 +1,19 @@
+---
+title: Overview of Rewilding
+author: "[Johan du Toit](/people/Johan_du_Toit.html)"
+date: 2024-01-16
+description: "No description"
+---
+
+{{< video https://www.youtube.com/watch?v=ZROCRBtwabA&list=PLUbgZHsSoMEWtrZI6IHJt-6-vN5JZi_mY&index=1 >}}
+
+### Additional materials
+
+- 'Rewilding' edited by Pettorelli, Durant and du Toit,
+CUP https://doi.org/10.1017/9781108560962
+
+- du Toit JT, Pettorelli N. The differences between rewilding and restoring an ecologically degraded landscape. J Appl Ecol. 2019; 56:2467–2471.
+
+- https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.13487 du Toit JT (2023) Steps to operationalize a rewilding decision: Focus on functional types. Front. Ecol. Evol. 11:1114856.
+
+- https://www.frontiersin.org/articles/10.3389/fevo.2023.1114856/full

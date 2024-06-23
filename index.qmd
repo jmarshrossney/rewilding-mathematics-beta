@@ -1,0 +1,20 @@
+---
+title: Rewilding Mathematics
+subtitle: A Mathematics for Humanity programme
+image: assets/blank-profile.png
+
+about:
+  template: solana
+---
+
+## About
+
+About Rewilding Mathematics.
+
+We are supported by the [International Centre for Mathematical Sciences](https://www.icms.org.uk/)
+
+We held a series of [seminars](seminars.html) during the first half of 2024 which culminated in a workshop
+
+## Enquiries
+
+Contact email address

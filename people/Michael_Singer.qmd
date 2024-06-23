@@ -1,0 +1,10 @@
+---
+title: Michael Singer
+subtitle: University College London
+categories: ["organizer"]
+description: ""
+
+about:
+  template: jolla
+  image: ../assets/blank-profile.png
+---

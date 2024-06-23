@@ -1,0 +1,7 @@
+---
+title: Template
+author: "[Joe Marsh Rossney](/people/Joe_Marsh_Rossney.html)"
+categories: ["uncategorised"]
+description: This is intended to serve as a template for future blog posts.
+---
+

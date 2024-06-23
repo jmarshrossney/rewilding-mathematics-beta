@@ -1,0 +1,10 @@
+---
+title: "Bringing the mathematical sciences to rewilding: questions, challenges and opportunities."
+author: "[Christina Cobbold](/people/Christina_Cobbold.html)"
+date: 2024-01-16
+description: "No description"
+---
+
+{{< video https://www.youtube.com/watch?v=y93nNS4nu6M&list=PLUbgZHsSoMEWtrZI6IHJt-6-vN5JZi_mY&index=4 >}}
+
+

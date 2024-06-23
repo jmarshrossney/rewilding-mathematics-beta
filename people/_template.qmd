@@ -1,0 +1,32 @@
+---
+title: NAME
+subtitle: INSTITUTION
+image: ../assets/<image>
+categories: []
+description: SHORT DESCRIPTION
+
+about:
+  template: jolla
+  image: ../assets/<image>
+  links:
+    - icon: person-circle
+      text: "Personal Website"
+      href: YOUR WEBSITE HERE
+    - icon: linkedin
+      text: LinkedIn
+      href: YOUR LINKEDIN HERE
+    - icon: twitter-x
+      text: X
+      href: YOUR TWITTER/X HERE
+    - icon: github
+      text: Github
+      href: YOUR GITHUB HERE
+    - icon: envelope-fill
+      text: Email
+      href: YOUR EMAIL HERE
+---
+
+LONG DESCRIPION
+
+- What is your disciplinary background?
+- Which parts of rewilding & mathematics are you interested in?

@@ -1,0 +1,10 @@
+---
+title: "Mathematics of Rewilding: Something Olde, Something New..."
+author: "[Sergei Petrovskii](/people/Sergei_Petrovskii.html)"
+date: 2024-01-16
+description: "No description"
+---
+
+{{< video https://www.youtube.com/watch?v=oNZLrqfNgvA&list=PLUbgZHsSoMEWtrZI6IHJt-6-vN5JZi_mY&index=3 >}}
+
+

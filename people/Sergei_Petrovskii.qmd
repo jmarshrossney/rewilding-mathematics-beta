@@ -1,0 +1,10 @@
+---
+title: Sergei Petrovskii
+subtitle: University of Leicester
+categories: ["organizer"]
+description: ""
+
+about:
+  template: jolla
+  image: ../assets/blank-profile.png
+---

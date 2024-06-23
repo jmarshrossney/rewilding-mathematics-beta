@@ -1,0 +1,10 @@
+---
+title: Sarah Durant
+subtitle: Institute of Zoology
+categories: ["organizer"]
+description: ""
+
+about:
+  template: jolla
+  image: ../assets/blank-profile.png
+---

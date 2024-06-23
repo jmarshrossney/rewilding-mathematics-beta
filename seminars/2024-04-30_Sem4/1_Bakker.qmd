@@ -1,0 +1,9 @@
+---
+title: "Rewilding Human-dominated Landscapes"
+author: "Liesbeth Bakker"
+date: 2024-04-30
+description: "No description"
+---
+
+{{< video https://www.youtube.com/watch?v=Mbn_EypeYco&list=PLUbgZHsSoMEUKdjtnoFTjdXnbFw0Sv9te&index=1 >}}
+

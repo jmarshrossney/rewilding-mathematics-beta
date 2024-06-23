@@ -1,0 +1,29 @@
+---
+title: Joe Marsh Rossney <a href="https://orcid.org/0000-0002-8082-8566"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>
+subtitle: UK Centre for Ecology & Hydrology
+image: ../assets/marsh-rossney-joe.jpg
+categories: []
+description: I hold a PhD in theoretical physics and now work as a Research Software Engineer for UKCEH.
+
+about:
+  template: jolla
+  image: ../assets/marsh-rossney-joe.jpg
+  links:
+    - icon: person-circle
+      text: "Personal Website"
+      href: https://github.com/jmarshrossney.github.io
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/joe-marsh-rossney
+    - icon: github
+      text: Github
+      href: https://github.com/jmarshrossney
+    - icon: plus-circle-fill
+      text: "Quarto Pub"
+      href: https://jmarshrossney.quarto.pub
+    - icon: envelope-fill
+      text: Email
+      href: "idk if I want emails actually"
+---
+
+I am interested in XYZ aspects of rewilding ...

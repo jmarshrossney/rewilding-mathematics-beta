@@ -1,0 +1,10 @@
+---
+title: Christina Cobbold
+subtitle: University of Glasgow
+categories: ["organizer"]
+description: ""
+
+about:
+  template: jolla
+  image: ../assets/blank-profile.png
+---

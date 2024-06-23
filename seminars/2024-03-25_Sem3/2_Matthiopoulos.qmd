@@ -1,0 +1,9 @@
+---
+title: "Space Use and Time Lags in Rewilding Applications"
+author: ["Jason Matthiopoulos"]
+date: 2024-03-25
+description: "No description"
+---
+
+{{< video https://www.youtube.com/watch?v=zMKhyIH9rmo&list=PLUbgZHsSoMEXt78dc5C_v42E8ZufDWuwY&index=2 >}}
+

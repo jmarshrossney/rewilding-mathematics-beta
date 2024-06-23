@@ -1,0 +1,9 @@
+---
+title: "Rewilding Complex Ecosystems and Landscapes"
+author: ["James Bullock"]
+date: 2024-03-25
+description: "No description"
+---
+
+{{< video https://www.youtube.com/watch?v=j67Sg93eyag&list=PLUbgZHsSoMEXt78dc5C_v42E8ZufDWuwY&index=1 >}}
+

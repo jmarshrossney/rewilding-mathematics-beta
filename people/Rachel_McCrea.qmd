@@ -1,0 +1,10 @@
+---
+title: Rachel McCrea
+subtitle: Lancaster University
+categories: ["organizer"]
+description: ""
+
+about:
+  template: jolla
+  image: ../assets/blank-profile.png
+---
