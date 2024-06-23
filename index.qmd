@@ -18,3 +18,5 @@ We held a series of [seminars](seminars.html) during the first half of 2024 whic
 ## Enquiries
 
 Contact email address
+
+A line that does nothing to test the github action.
