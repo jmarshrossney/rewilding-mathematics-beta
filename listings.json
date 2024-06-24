@@ -13,6 +13,12 @@
     ]
   },
   {
+    "listing": "/news.html",
+    "items": [
+      "/news/workshop_june_2024.html"
+    ]
+  },
+  {
     "listing": "/seminars.html",
     "items": [
       "/seminars/2024-04-30_Sem4/2_Bertelli.html",
@@ -25,12 +31,6 @@
       "/seminars/2024-01-16_Sem1/3_Petrovskii.html",
       "/seminars/2024-01-16_Sem1/2_McCrea.html",
       "/seminars/2024-01-16_Sem1/1_du_Toit.html"
-    ]
-  },
-  {
-    "listing": "/news.html",
-    "items": [
-      "/news/workshop_june_2024.html"
     ]
   },
   {
