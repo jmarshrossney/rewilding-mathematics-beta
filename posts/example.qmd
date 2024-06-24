@@ -1,6 +1,7 @@
 ---
 title: Example Blog Post
 author: "[Joe Marsh Rossney](/people/Joe_Marsh_Rossney.html)"
+date: 2024-06-23
 categories: ["uncategorised"]
 description: This is intended to serve as a template for blog posts, should anybody want to share their thinking or not-quite-a-full-paper.
 ---

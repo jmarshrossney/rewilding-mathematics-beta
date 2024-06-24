@@ -1,0 +1,18 @@
+---
+# Write the title of the news item here
+title: <<TITLE>>
+
+# Add the date in the format YYYY-MM-DD
+date: <<DATE>>
+
+# This short description will appear in the listing page
+description: <<SHORT DESCRIPTION>>
+
+# Add a featured image (see the README.md for instructions)
+# Or, simply delete this line to have no image
+image: <<IMAGE>>
+---
+
+Write about the news item here.
+
+<<BODY>>

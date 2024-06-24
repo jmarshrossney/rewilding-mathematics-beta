@@ -1,0 +1,26 @@
+---
+# Write the title of the blog post here
+title: <<TITLE>>
+
+# Write your full name here. To link this to your profile page, use
+# the syntax `author: "[Firstname Surname](people/Firstname_Surname.html)"
+author: <<AUTHOR>>
+
+# Add the date in the format YYYY-MM-DD
+date: <<DATE>>
+
+# Optionally, add categories to your blog post, separated by commas
+# If there are no categories, leave this line as `categories: []`
+categories: ["<<CATEGORY 1>>", "<<CATEGORY 2>>"]
+
+# This short description will appear in the listing page
+description: <<SHORT DESCRIPTION>>
+
+# Add a featured image (see the README.md for instructions)
+# Or, simply delete this line to have no image
+image: <<IMAGE>>
+---
+
+Write your blog post here.
+
+<<BODY>>

@@ -1,9 +1,4 @@
-# This is a template file for individual's profile page
-#
-# All of the text in the format <<TEXT>> should be edited
-# Any lines starting with a '#' will be ignored
 ---
-
 # Write your full name here
 title: <<NAME>>
 
@@ -46,12 +41,14 @@ about:
     - icon: envelope-fill
       text: Email
       href: <<YOUR EMAIL HERE>>
+
+# This separator marks the end of the YAML header
 ---
 
-# Here you can write a bit more about yourself, or include links to papers,
-# talks, etc.
+Here you can write a bit more about yourself, or include links to papers,
+talks, etc.
+
+For example, what is your disciplinary background?
+Which parts of rewilding & mathematics are you interested in?
 
 <<LONG DESCRIPION>>
-
-# For example, what is your disciplinary background?
-# Which parts of rewilding & mathematics are you interested in?

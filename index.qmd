@@ -9,12 +9,21 @@ about:
 
 ## About
 
-About Rewilding Mathematics.
+*Rewilding Mathematics* aims to draw on multidisciplinary expertise to investigate opportunities for mathematics to contribute to rewilding efforts.
 
-We are supported by the [International Centre for Mathematical Sciences](https://www.icms.org.uk/)
+We are a group of academics and professionals, predominantly though not exclusively based in the United Kingdom, with a range of backgrounds in research united by the common thread of mathematics.
+You can find out more about us on the [people](people.html) page.
 
-We held a series of [seminars](seminars.html) during the first half of 2024 which culminated in a workshop.
+We have been supported by the [International Centre for Mathematical Sciences](https://www.icms.org.uk/) through the [Mathematics for Humanity](https://www.icms.org.uk/funding-opportunities/mathematics-humanity) programme.
+
+## Outputs
+
+We held a series of [seminars](seminars.html) during the Winter and Spring of 2024, which culminated in a week-long [workshop](news/workshop_june_2024.html) in June centred around the question: *how can mathematics help with rewilding?* 
+
+We intend to publish the results of this workshop in the coming months.
 
 ## Enquiries
 
-Contact email address
+We are keen to increase the breadth of expertise and diversity of experience in our working group.
+
+Please context EMAIL ADDRESS for any enquiries.
