@@ -4,7 +4,7 @@ This repository contains the source code for the **beta** version of the [Rewild
 
 ## Contributing
 
-These instructions are for individuals who participated in the Rewilding Mathematics seminar/workshop series.
+**These instructions are for individuals who participated in the Rewilding Mathematics seminar/workshop series.**
 
 In each case, create or edit the relevant Markdown (`.qmd`) file(s) using any text editor, then do one of the following:
 
@@ -13,7 +13,7 @@ In each case, create or edit the relevant Markdown (`.qmd`) file(s) using any te
 - If neither of these options work for you, you can email me directly
 
 
-### File structure
+### Basics
 
 The basic structure of a file is a YAML header, which is enclosed by a pair of lines containing only `---` and contains metadata about the file, followed by a Markdown body.
 
@@ -50,7 +50,7 @@ This blog is based on [Quarto](https://quarto.org/) which uses an [extended Mark
 The best place to look for guidance is the [Quarto guide](https://quarto.org/docs/guide/).
 
 
-### Adding or updating your profile on the 'people' page
+### Add/update your profile
 
 If you do not already have a profile, copy the file `templates/profile.qmd` into the `people/` directory and rename it in the format `Firstname_Surname.qmd`.
 
@@ -58,7 +58,7 @@ Modify this file as you wish, or by following the guidance inside the file.
 
 To add a profile photo, you need to modify *both* of the relevant lines, so that they read `image: https://link/to/your/profile/photo.jpg` (if you are using a photo that is already online) or `image: /assets/images/Firstname_Lastname.jpg` (if you are uploading a new photo).
 
-See [Adding Photos](#adding-photos) for further guidance.
+See [Adding ihotos](#adding-ihotos) for further guidance.
 
 
 ### Add a blog post
@@ -86,7 +86,7 @@ Note that the link should end in `.jpg` or `.png` - vector images won't work.
 For now, send the photo to me.
 Use the syntax `![alt text](/assets/images/<image_name>.jpg)` in your file where you want the image displayed.
 
-In future This should not be so awkward in future but I want to avoid committing lots of photos to version control before we settle in.
+This should not be so awkward in future but I want to avoid committing lots of photos to version control before we settle in.
 
 
 ## Building the website locally
